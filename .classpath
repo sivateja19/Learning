@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/a522014/Desktop/db2_db2driver_for_jdbc_sqlj/db2jcc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a522014/Desktop/db2_db2driver_for_jdbc_sqlj/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a522014/Desktop/db2_db2driver_for_jdbc_sqlj/sqlj.zip"/>
+	<classpathentry kind="lib" path="C:/Users/a522014/Desktop/db2_db2driver_for_jdbc_sqlj/sqlj4.zip"/>
+	<classpathentry kind="lib" path="C:/Users/a522014/Desktop/db2_db2driver_for_jdbc_sqlj/db2jcc_license_cisuz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+	<Student>
+		<id>1</id>
+		<name>Siva</name>
+		<marks>
+			<mark subject="English">95</mark>
+			<mark subject="Science">100</mark>
+		</marks>
+	</Student>
+	<Student>
+		<id>2</id>
+		<name>sivateja</name>
+		<marks>
+			<mark subject="English">92</mark>
+			<mark subject="Science">98</mark>
+		</marks>
+	</Student>
+	<Student>
+		<id>3</id>
+		<name>teja</name>
+		<marks>
+			<mark subject="English">96</mark>
+			<mark subject="Science">90</mark>
+		</marks>
+	</Student>
+</Students>
